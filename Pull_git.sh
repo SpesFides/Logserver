@@ -8,8 +8,8 @@ echo Timetogotoschool45
 git merge origin/master
 
 #activeer scrips
-#echo Saltstack_master.sh
-#echo Saltstack_minion_master.sh
-#echo Monitor_Munin.sh
-#echo Docker_master.sh
-#echo Syslog.sh
+bash Saltstack_master.sh
+bash Saltstack_minion_master.sh
+bash Monitor_Munin.sh
+bash Docker_master.sh
+bash Syslog.sh
