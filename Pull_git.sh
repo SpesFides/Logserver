@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git fetch origin
+git fetch Logserver
 
 echo SpesFides
 echo Timetogotoschool45
