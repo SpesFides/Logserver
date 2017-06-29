@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git fetch Logserver
+git fetch https://github.com/SpesFides/Logserver.git
 
 echo SpesFides
 echo Timetogotoschool45
